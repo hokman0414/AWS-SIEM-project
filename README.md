@@ -2,6 +2,12 @@ This was an incomplete project that hosted security stacks onto AWS VPC cloud
 
 The full project is currently shifting to on premise with some endpoints maybe hosted on cloud (hosted websites)
 
+Wazuh installation documetnation:
+https://documentation.wazuh.com/current/installation-guide/index.html
+
+Graylog installation guide:
+https://socfortress.medium.com/part-2-graylog-install-log-ingestion-da149c4844dc
+
 
 security stacks requirements:
 1. Log analysis - Wazuh 
