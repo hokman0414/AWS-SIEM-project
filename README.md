@@ -1,4 +1,8 @@
-This was a half completed project that hosted security stacks onto AWS VPC cloud
+This was an incomplete project that hosted security stacks onto AWS VPC cloud
+
+The full project is currently shifting to on premise with some endpoints maybe hosted on cloud (hosted websites)
+
+
 security stacks requirements:
 1. Log analysis - Wazuh 
 2. Log ingestion - Gray log 
