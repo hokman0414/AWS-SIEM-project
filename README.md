@@ -23,7 +23,7 @@ Reason of project cancellation:
 This project with migrate onto ON premise home lab. 
 
 
-But project details + notes are still recorded here
+But project details,screenshots + notes are still recorded here
 
 https://docs.google.com/document/d/12b3nj4PC8hWQEJnh5O8DRSrXUxSFQk6TRNweN2-3BBQ/edit?usp=sharing
 
